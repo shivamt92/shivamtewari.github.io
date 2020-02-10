@@ -1,7 +1,7 @@
 ---
 permalink: /work_experience/
-title: "Shivam Tewari"
-excerpt: "About me"
+title: "Work Experience"
+excerpt: "Work_me"
 author_profile: true
 redirect_from: 
   - /about/
